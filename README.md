@@ -12,6 +12,15 @@ Hard‑working, enthusiastic about software development (especially videogame lo
   <img alt="WinSock2" src="https://img.shields.io/badge/WinSock2-0078D6?logo=windows&logoColor=white">
 </p>
 
+### Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gert2198&layout=compact&langs_count=8&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+### Streak Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=Gert2198&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+
+### Activity Graph
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gert2198&theme=github-compact&area=true&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
 ## About me
 - I’m currently focused on C++ for game tech (OpenGL + Dear ImGui) and networking (WinSock2, Boost.Asio).
 - I love building things from scratch to understand how they work underneath.
