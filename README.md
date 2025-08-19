@@ -7,9 +7,10 @@ Hard‑working, enthusiastic about software development (especially videogame lo
   <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white">
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white">
   <img alt="OpenGL" src="https://img.shields.io/badge/OpenGL-5586A4?logo=opengl&logoColor=white">
-  <img alt="Dear ImGui" src="https://img.shields.io/badge/Dear%20ImGui-2C2C2C?logo=data:image/svg+xml;base64,PHN2Zy8+&logoColor=white">
+  <img alt="Dear ImGui" src="https://img.shields.io/badge/Dear%20ImGui-2C2C2C?logoColor=white">
   <img alt="Boost.Asio" src="https://img.shields.io/badge/Boost.Asio-8A2BE2?logo=boost&logoColor=white">
   <img alt="WinSock2" src="https://img.shields.io/badge/WinSock2-0078D6?logo=windows&logoColor=white">
+  <img alt="React" src="https://img.shields.io/badge/React?logo=windows&logoColor=white">
 </p>
 
 ### Top Languages
