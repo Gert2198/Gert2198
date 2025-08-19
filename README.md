@@ -23,13 +23,14 @@ Hard‑working, enthusiastic about software development (especially videogame lo
 
 ## About me
 - I’m currently focused on C++ for game tech (OpenGL + Dear ImGui) and networking (WinSock2, Boost.Asio).
+- I'm also learning React from the Fullstackopen course. 
 - I love building things from scratch to understand how they work underneath.
 - Outside coding, I play the guitar and tinker with music tech.
 
 ## Highlight projects
 - 🔷 [PruebaOpenGL](https://github.com/Gert2198/PruebaOpenGL) — my micro game engine built in C++ with OpenGL and Dear ImGui.  
   Goal: learn engine fundamentals by implementing rendering, input, and core systems myself.
-- ☕ [Cafe Amores](https://github.com/Gert2198/Cafe-Amores) — my first “real and useful” website.
+- ☕ [Cafe Amores](https://github.com/Gert2198/Cafe-Amores) — my first “real and useful” website, made with pure HTML, CSS and JavaScript.
 - 💣 [Buscaminas](https://github.com/Gert2198/Buscaminas) — a Minesweeper clone I built and tweaked for fun; made in Java and Swing
 - 🟡 [4enRaya](https://github.com/Gert2198/4enRaya) — Connect Four, but with a tiny twist; also made with Java and Swing. 
 - ✊ [Online-RPS](https://github.com/Gert2198/Online-RPS) — online Rock‑Paper‑Scissors; experiments with networking and async server communication, and planning to make a GUI for it.
@@ -40,7 +41,7 @@ Hard‑working, enthusiastic about software development (especially videogame lo
 - Modern C++ patterns and clean engine architecture
 - Graphics fundamentals (pipelines, buffers, shaders)
 - Multiplatform networked systems with Boost.Asio
-- Game loops, timing, and input systems
+- React updated practices
 
 ## Big idea on my roadmap
 🎼 Audio‑to‑Sheet: a tool that converts a full MP3 into music notation so anyone can play any song they like.  
