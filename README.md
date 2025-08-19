@@ -10,7 +10,7 @@ Hard‑working, enthusiastic about software development (especially videogame lo
   <img alt="Dear ImGui" src="https://img.shields.io/badge/Dear%20ImGui-2C2C2C?logoColor=white">
   <img alt="Boost.Asio" src="https://img.shields.io/badge/Boost.Asio-8A2BE2?logo=boost&logoColor=white">
   <img alt="WinSock2" src="https://img.shields.io/badge/WinSock2-0078D6?logo=windows&logoColor=white">
-  <img alt="React" src="https://img.shields.io/badge/React?logo=windows&logoColor=white">
+  <img alt="React" src="https://img.shields.io/badge/React-628bc8?logo=react&logoColor=white">
 </p>
 
 ### Top Languages
