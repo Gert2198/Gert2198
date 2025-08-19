@@ -21,9 +21,12 @@ Hard‑working, enthusiastic about software development (especially videogame lo
 ### Activity Graph
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gert2198&theme=github-compact&area=true&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
+## Now
+I am currently taking the Fullstackopen course of the University of Helsinky, where I'm learning React best practices and the most up-to-date techniques.
+
 ## About me
 - I’m currently focused on C++ for game tech (OpenGL + Dear ImGui) and networking (WinSock2, Boost.Asio).
-- I'm also learning React from the Fullstackopen course. 
+- I'm also working on web development and cloud computing. 
 - I love building things from scratch to understand how they work underneath.
 - Outside coding, I play the guitar and tinker with music tech.
 
